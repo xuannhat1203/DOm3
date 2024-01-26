@@ -1,0 +1,9 @@
+img{
+    opacity: 0;
+}
+h1{
+    color:red;
+    position: relative;
+    bottom: 270px;
+    left: 420px;
+}

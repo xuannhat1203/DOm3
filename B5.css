@@ -1,0 +1,18 @@
+.main{
+    width: 600px;
+    height: 300px;
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 50px;
+}
+span{
+    position: relative;
+    left: 60px;
+    bottom: 30px;
+}
+h1{
+    position: relative;
+    left: 40px;
+}
